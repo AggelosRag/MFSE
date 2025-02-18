@@ -9,4 +9,4 @@ MFSE was presented in The 34th IEEE International Conference on Tools with Artif
 
 MFSE is developed with PyTorch, PyTorch Geometric and PyTorch Lightning.
 
-![Screenshot](encoders comparison.drawio.png)
+![Screenshot](image.png)
